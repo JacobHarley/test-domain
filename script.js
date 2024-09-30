@@ -1,3 +1,4 @@
 function showMessage() {
-    alert('Hello from JavaScript!');
+    const messageElement = document.getElementById('message');
+    messageElement.textContent = 'Hello from JavaScript!';
 }
