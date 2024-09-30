@@ -14,3 +14,9 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+#message {
+    color: #007BFF;
+    font-size: 18px;
+    margin-top: 20px;
+}
